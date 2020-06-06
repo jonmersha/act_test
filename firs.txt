@@ -1,1 +1,2 @@
 the document is edited
+is done locally from home
